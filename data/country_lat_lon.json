@@ -1,5 +1,4 @@
 [
-    {"latitude": "latitude", "longitude": "longitude", "Country": "Country"},
     {"latitude": "42.546245", "longitude": "1.601554", "Country": "Andorra"},
     {"latitude": "23.424076", "longitude": "53.847818", "Country": "United Arab Emirates"},
     {"latitude": "33.93911", "longitude": "67.709953", "Country": "Afghanistan"},
